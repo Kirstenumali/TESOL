@@ -4,3 +4,4 @@
 Lessons (I learned in TESOL which teaching students in English)
 1. Educators must be aware of their own biases and strive to create a safe and welcoming space for all students.
 2. It is important for teachers to strike a balance between utilizing technology and ensuring that it does not detract from the learning experience.
+3. One effective strategy for engaging TESOL learners is to use real-life examples. By connecting classroom content to students' personal experiences and interests, teachers can create a more meaningful and relevant learning experience. 
