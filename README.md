@@ -43,6 +43,6 @@ To use the app:
    cd tesol-teaching-assistant
 
 3. Follow the instructions in INSTALL.md or run the app locally using:
-   ```bash
+ ```bash
 npm install
 npm start
