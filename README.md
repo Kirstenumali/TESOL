@@ -37,3 +37,12 @@ To use the app:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/tesol-teaching-assistant.git
+
+2. Navigate to the project folder:
+   ```bash
+   cd tesol-teaching-assistant
+
+3. Follow the instructions in INSTALL.md or run the app locally using:
+   ```bash
+npm install
+npm start
